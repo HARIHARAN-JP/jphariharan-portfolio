@@ -625,20 +625,6 @@ function App() {
                   <GithubIcon size={20} />
                   GitHub
                 </a>
-
-                <a
-                  href="https://www.linkedin.com/in/hariharan-jp-35b573322/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <LinkedinIcon size={20} />
-                  LinkedIn
-                </a>
-
-                <a href="mailto:jphariharan09@gmail.com">
-                  <Mail size={20} />
-                  Email
-                </a>
               </div>
             </div>
           </div>
