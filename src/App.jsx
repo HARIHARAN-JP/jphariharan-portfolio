@@ -635,7 +635,7 @@ function App() {
                   LinkedIn
                 </a>
 
-                <a href="mailto:gowsik7968@gmail.com">
+                <a href="mailto:jphariharan09@gmail.com">
                   <Mail size={20} />
                   Email
                 </a>
